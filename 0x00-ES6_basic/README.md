@@ -35,8 +35,10 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Setup
 Install NodeJS 12.11.x
-```
 <br></br>
+
+```
+
 ```bash
 (in your home directory):
 
