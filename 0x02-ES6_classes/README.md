@@ -30,8 +30,6 @@ project running npm run full-test
 ## Setup
 ### Install NodeJS 12.11.x
 
-<br></br>
-
 (in your home directory):
 
 ```
@@ -69,6 +67,8 @@ Add the files below to your project directory
 Don’t forget to run npm install from the terminal of your project folder to
 install all necessary project dependencies.
 
+<br></br>
+
 # Tasks
 
 ## Task 0. You used to attend a place like this
@@ -76,6 +76,8 @@ Implement a class named ClassRoom with a constructor that accepts
 maxStudentsSize (Number) and assigns it to _maxStudentsSize.
 -	Edge Test: Check if the ClassRoom instance has the correct
 _maxStudentsSize value.
+
+<br></br>
 
 ## 1. Let's make some classrooms
 Import the <code>ClassRoom</code> class from <code>0-classroom.js</code>.
@@ -85,6 +87,8 @@ order).
 -	Edge Test: Verify that the array contains the expected
 <code>ClassRoom</code> instances with the correct sizes.
 
+<br></br>
+
 ## Task 2. A Course, Getters, and Setters
 Implement a class named <code>HolbertonCourse</code> with a constructor that
 accepts <code>name (String)</code>, <code>length (Number)</code>, and
@@ -92,6 +96,8 @@ accepts <code>name (String)</code>, <code>length (Number)</code>, and
 -	Implement getters and setters for each attribute.
 -	Edge Test: Verify that attempting to set attributes with incorrect
 types throws the expected errors.
+
+<br></br>
 
 ## Task 3. Methods, static methods, computed methods names..... MONEY
 Implement a class named <code>Currency</code> with a constructor that accepts
@@ -101,6 +107,8 @@ Implement a class named <code>Currency</code> with a constructor that accepts
 attributes in the format: name (code).
 -	Edge Test: Check if the displayFullCurrency method returns the expected
 format.
+
+<br></br>
 
 ## Task 4. Pricing
 Import the Currency class from 3-currency.js.
@@ -115,6 +123,8 @@ returns the <code>converted price</code>.
 -	Edge Test: Verify that displayFullPrice and convertPrice methods work
 as expected.
 
+<br></br>
+
 ## Task 5. A Building
 Implement a class named <code>Building</code> with a constructor that accepts
 </code>sqft (Number)</code>.
@@ -123,6 +133,8 @@ Implement a class named <code>Building</code> with a constructor that accepts
 must implement a method named <code>evacuationWarningMessage</code>.
 -	Edge Test: Ensure that attempting to create an instance of
 <code>Building</code> throws an error.
+
+<br></br>
 
 ## Task 6. Inheritance
 Import Building from 5-building.js.
@@ -135,6 +147,8 @@ Evacuate slowly the <code>NUMBER_OF_FLOORS</code> floors.
 -	Edge Test: Verify that the <code>SkyHighBuilding</code> class inherits
 from Building and overrides the method as expected.
 
+<br></br>
+
 ## Task 7. Airport
 Implement a class named <code>Airport</code> with a constructor that accepts
 <code>name (String)</code> and <code>code (String)</code>.
@@ -143,6 +157,8 @@ Implement a class named <code>Airport</code> with a constructor that accepts
 <code>airport</code> code.
 - Edge Test: Check if the default <code>toString</code> method returns the
 <code>airport</code> code.
+
+<br></br>
 
 ## Task 8. Primitive - Holberton Class
 Implement a class named <code>HolbertonClass</code> with a constructor that
@@ -153,12 +169,16 @@ accepts <code>size (Number)</code> and <code>location (String)</code>.
 -	Edge Test: Verify that casting to Number returns the size and casting
 to <code>String</code> returns the <code>location</code>.
 
+<br></br>
+
 ## Task 9. Hoisting
 Fix the given code and make it work.
 -	Ensure that the StudentHolberton class references the
 <code>HolbertonClass</code> class correctly.
 -	Edge Test: Confirm that the corrected code executes without errors and
 produces the expected output.
+
+<br></br>
 
 ## Task 10. Vroom
 Implement a class named <code>Car</code> with a constructor that accepts
@@ -167,6 +187,8 @@ Implement a class named <code>Car</code> with a constructor that accepts
 -	Add a method named <code>cloneCar</code> that returns a new object of
 the class.
 -	Edge Test: Verify that calling cloneCar returns a new instance of Car.
+
+<br></br>
 
 ## Task 11. EVCar
 Import <code>Car</code> from <code>10-car.js</code>.
