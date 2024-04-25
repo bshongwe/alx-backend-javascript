@@ -63,7 +63,7 @@ Add the files below to your project directory
 
 <br></br>
 
-## Finally…
+### Finally…
 Don’t forget to run npm install from the terminal of your project folder to
 install all necessary project dependencies.
 
