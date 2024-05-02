@@ -99,8 +99,8 @@ true
 bob@dylan:~$
 ```
 
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
+GitHub repository: `alx-backend-javascript` </br>
+Directory: `0x01-ES6_promise` </br>
 File: `0-promise.js`
 
 <br></br>
@@ -128,8 +128,8 @@ Promise {
 bob@dylan:~$ 
 ```
 
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
+GitHub repository: `alx-backend-javascript` </br>
+Directory: `0x01-ES6_promise` </br>
 File: `1-promise.js`
 <br></br>
 <br></br>
@@ -147,7 +147,7 @@ Append three handlers to the function:
 - For every resolution, log `Got a response from the API` to the console
 
 ```
-bob@dylan:~$ cat 2-main.js
+bob@dylan:~$ cat 2-main.js 
 import handleResponseFromAPI from "./2-then";
 
 const promise = Promise.resolve();
@@ -159,8 +159,8 @@ Got a response from the API
 bob@dylan:~$ 
 ```
 
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
+GitHub repository: `alx-backend-javascript` </br>
+Directory: `0x01-ES6_promise` </br>
 File: `2-then.js`
 
 <br></br>
@@ -188,8 +188,8 @@ photo-profile-1 Guillaume Salva
 bob@dylan:~$ 
 ```
 
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
+GitHub repository: `alx-backend-javascript` </br>
+Directory: `0x01-ES6_promise` </br>
 File: `3-all.js`
 
 <br></br>
@@ -225,8 +225,8 @@ Promise { { firstName: 'Bob', lastName: 'Dylan' } }
 bob@dylan:~$ 
 ```
 
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
+GitHub repository: `alx-backend-javascript` </br>
+Directory: `0x01-ES6_promise` </br>
 File: `4-user-promise.js`
 
 <br></br>
@@ -257,8 +257,8 @@ Promise {
 bob@dylan:~$ 
 ```
 
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
+GitHub repository: `alx-backend-javascript` </br>
+Directory: `0x01-ES6_promise` </br>
 File: `5-photo-reject.js`
 
 <br></br>
@@ -290,8 +290,8 @@ Promise { <pending> }
 bob@dylan:~$ 
 ```
 
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
+GitHub repository: `alx-backend-javascript` </br>
+Directory: `0x01-ES6_promise` </br>
 File: `6-final-user.js`
 
 <br></br>
@@ -341,8 +341,8 @@ Downloading from FR is faster
 bob@dylan:~$ 
 ```
 
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
+GitHub repository: `alx-backend-javascript` </br>
+Directory: `0x01-ES6_promise` </br>
 File: `7-load_balancer.js`
 
 <br></br>
@@ -377,8 +377,8 @@ bob@dylan:~$ npm run dev 8-main.js
 bob@dylan:~$ 
 ```
 
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
+GitHub repository: `alx-backend-javascript` </br>
+Directory: `0x01-ES6_promise` </br>
 File: `8-try.js`
 
 ## Task 9. Throw an error
@@ -412,8 +412,8 @@ bob@dylan:~$ npm run dev 9-main.js
 bob@dylan:~$ 
 ```
 
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
+GitHub repository: `alx-backend-javascript` </br>
+Directory: `0x01-ES6_promise` </br>
 File: `9-try.js`
 
 ## Task 10. Await / Async
@@ -449,8 +449,8 @@ bob@dylan:~$ npm run dev 100-main.js
 bob@dylan:~$ 
 ```
 
-GitHub repository: `alx-backend-javascript`
-Directory: `0x01-ES6_promise`
+GitHub repository: `alx-backend-javascript` </br>
+Directory: `0x01-ES6_promise` </br>
 File: `100-await.js`
 
 
