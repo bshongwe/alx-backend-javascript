@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Optional eslint cache
+.eslintcache
+
+# Optional npm debug log
+npm-debug.log*
+
+# Production build directory
+/build/
+
+# IDE settings
+.vscode/
+
+# Vim swap files
+*.swp
