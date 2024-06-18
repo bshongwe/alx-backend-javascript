@@ -1,6 +1,8 @@
 /**
  * Task 0 Displays message on STDOUT.
- * @param {String} msg message printed using Console Log.
+ * @param {String} msg Message to be displayed,
+ * should be string value,
+ * Example: Hello NodeJS
  */
 const displayMessage = (msg) => {
   console.log(msg);
