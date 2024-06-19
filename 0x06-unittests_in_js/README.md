@@ -38,7 +38,6 @@ By the end of this project, you will be able to explain:
 - Running tests with `npm run test *.test.js` should pass without any warning or error
 
 ## Tasks 📋
-
 ### 0. Basic test with Mocha and Node assertion library ✔️
 
 - **Install Mocha using npm**
@@ -56,6 +55,7 @@ By the end of this project, you will be able to explain:
 const calculateNumber = require("./0-calcul.js");
 console.log(calculateNumber(1.5, 3.7)); // Output: 6
 ```
+<br></br>
 
 ### 1. Combining descriptions 🔢
 
@@ -70,6 +70,7 @@ console.log(calculateNumber(1.5, 3.7)); // Output: 6
 const calculateNumber = require("./1-calcul.js");
 console.log(calculateNumber('DIVIDE', 1.4, 0)); // Output: 'Error'
 ```
+<br></br>
 
 ### 2. Basic test using Chai assertion library ☕
 
@@ -78,6 +79,7 @@ console.log(calculateNumber('DIVIDE', 1.4, 0)); // Output: 'Error'
   - `1-calcul.test.js` to `2-calcul_chai.test.js`
 - **Rewrite test suite**
   - Use `expect` from Chai
+<br></br>
 
 ### 3. Spies 🕵️
 
@@ -87,18 +89,21 @@ console.log(calculateNumber('DIVIDE', 1.4, 0)); // Output: 'Error'
   - Function `sendPaymentRequestToApi`
 - **Create `3-payment.test.js`**
   - Use `sinon.spy` to validate `Utils.calculateNumber`
+<br></br>
 
 ### 4. Stubs 🔄
 
 - **Create `4-payment.js` and `4-payment.test.js`**
   - Stub `Utils.calculateNumber` to return `10`
   - Verify function calls with stubs and spies
+<br></br>
 
 ### 5. Hooks 🔧
 
 - **Create `5-payment.js` and `5-payment.test.js`**
   - Use `beforeEach` and `afterEach` hooks
   - Verify console logs and calls
+<br></br>
 
 ### 6. Async tests with done ⏳
 
@@ -106,29 +111,34 @@ console.log(calculateNumber('DIVIDE', 1.4, 0)); // Output: 'Error'
   - Function `getPaymentTokenFromAPI` that returns a promise
 - **Create `6-payment_token.test.js`**
   - Test async function with `done`
+<br></br>
 
 ### 7. Skip ⏭️
 
 - **Modify `7-skip.test.js`**
   - Skip failing test without removing it
+<br></br>
 
 ### 8. Basic Integration testing 🌐
 
 - **Create `8-api` folder**
   - Implement `api.js` with Express server
   - Implement `api.test.js` for integration tests
+<br></br>
 
 ### 9. Regex integration testing 🔍
 
 - **Modify `9-api` folder**
   - Add `GET /cart/:id` endpoint
   - Update tests in `api.test.js`
+<br></br>
 
 ### 10. Deep equality & Post integration testing 📬
 
 - **Modify `10-api` folder**
   - Add `GET /available_payments` and `POST /login` endpoints
   - Update tests in `api.test.js`
+<br></br>
 
 ## Repository 📁
 
