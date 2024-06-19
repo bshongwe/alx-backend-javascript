@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Generated files
+coverage/
+*.log
+*.json
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log*
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Build output
+dist/
+build/
+
+# Ignore any other files
+*.bak
+*.swp
