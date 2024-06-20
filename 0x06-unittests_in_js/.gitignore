@@ -21,8 +21,8 @@ logs/
 *.log*
 
 # Dependency lock files
-package-lock.json
-yarn.lock
+# package-lock.json
+# yarn.lock
 
 # Build output
 dist/
