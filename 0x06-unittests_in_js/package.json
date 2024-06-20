@@ -4,7 +4,7 @@
   "description": "A project for learning the basics of unittests in Node.js.",
   "author": "Ernest Bhekizwe Shongwe <shongwe.bhekizwe@gmail.com>",
   "private": true,
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "lint": "./node_modules/.bin/eslint",
     "lint-all": "./node_modules/.bin/eslint [0-9]*.js",
