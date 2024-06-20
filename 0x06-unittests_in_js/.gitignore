@@ -20,10 +20,6 @@ coverage/
 logs/
 *.log*
 
-# Dependency lock files
-# package-lock.json
-# yarn.lock
-
 # Build output
 dist/
 build/
