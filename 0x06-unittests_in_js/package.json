@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/bshongwe/alx-backend-javascript/blob/main/0x06-unittests_in_js/README.md",
   "engines": {
-    "node": "16.x",
+    "node": "12.x.x",
     "npm": "8.x",
     "yarn": "1.x"
   }
