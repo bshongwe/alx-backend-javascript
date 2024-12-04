@@ -1,3 +1,9 @@
+![Visits Badge](https://badges.pufler.dev/visits/bshongwe/alx-backend-javascript)
+![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/alx-backend-javascript)
+![GitHub Forks](https://img.shields.io/github/forks/bshongwe/alx-backend-javascript)
+![GitHub Issues](https://img.shields.io/github/issues/bshongwe/alx-backend-javascript)
+![GitHub License](https://img.shields.io/github/license/bshongwe/alx-backend-javascript)
+
 # ALX Backend JavaScript
 
 ES6 Module Documentation 🚀
